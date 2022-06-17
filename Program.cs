@@ -1,5 +1,5 @@
 ﻿using System.Drawing;
-//dotnet publish -r win-x64 --self-contained true /p:PublishSingleFile=true -o pickme
+//dotnet publish -r win-x64 --self-contained true /p:PublishSingleFile=true -o .
 public class jpg2png
 {
     static int Main(string[] args)
